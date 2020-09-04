@@ -667,7 +667,7 @@ p {
   .header-content .header-title {
     font-size: 75px;
     color: #fff;
-    text-transform: uppercase; }
+  }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
       .header-content .header-title {
         font-size: 60px; } }
